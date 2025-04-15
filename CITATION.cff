@@ -5,10 +5,7 @@ cff-version: 1.2.0
 title: >-
   Active Attribute Inference Against Well-Generalized Models
   In Federated Learning
-message: >-
-  Code to reproduce results from the paper "Active Attribute
-  Inference Against Well-Generalized Models In Federated
-  Learning" (experiments with CelebA)
+message: 'If you use this software, please cite it.'
 type: software
 authors:
   - given-names: Catarina
@@ -17,5 +14,15 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/Ana-Catarina-Gomes/Active-Attribute-Inference-Against-Well-Generalized-Models-In-Federated-Learning?tab=readme-ov-file#readme
+      https://github.com/Ana-Catarina-Gomes/Active-Attribute-Inference-Against-Well-Generalized-Models-In-Federated-Learning
+    description: >-
+      Code to reproduce results from the paper "Active
+      Attribute Inference Against Well-Generalized Models In
+      Federated Learning" (experiments with CelebA)
+repository-code: >-
+  https://github.com/Ana-Catarina-Gomes/Active-Attribute-Inference-Against-Well-Generalized-Models-In-Federated-Learning
+abstract: >-
+  Code to reproduce results from the paper "Active Attribute
+  Inference Against Well-Generalized Models In Federated
+  Learning" (experiments with CelebA).
 date-released: '2025-04-13'
