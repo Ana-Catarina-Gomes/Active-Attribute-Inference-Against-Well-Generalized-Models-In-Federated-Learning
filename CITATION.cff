@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Active Attribute Inference Against Well-Generalized Models
+  In Federated Learning
+message: >-
+  Code to reproduce results from the paper "Active Attribute
+  Inference Against Well-Generalized Models In Federated
+  Learning" (experiments with CelebA)
+type: software
+authors:
+  - given-names: Catarina
+    family-names: Gomes
+    email: up201804545@edu.fc.up.pt
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Ana-Catarina-Gomes/Active-Attribute-Inference-Against-Well-Generalized-Models-In-Federated-Learning?tab=readme-ov-file#readme
+date-released: '2025-04-13'
