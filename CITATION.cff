@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Active Attribute Inference Against Well-Generalized Models
+  Code for Active Attribute Inference Against Well-Generalized Models
   In Federated Learning
 message: 'If you use this software, please cite it.'
 type: software
